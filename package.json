@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andreamazza89/voting-client/issues"
   },
-  "homepage": "https://github.com/andreamazza89/voting-client#readme"
+  "homepage": "https://github.com/andreamazza89/voting-client#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^1.16.1"
+  }
 }
